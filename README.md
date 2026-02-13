@@ -13,3 +13,25 @@ From the repository root:
 
 ```bash
 python Python/01-basics/01_hello_world.py
+
+##Python focus
+Python is great for readable code, fast development, automation, scripting, and data-related work.
+
+##Notes
+Each file has small examples and comments. Try modifying the code to learn faster.
+
+
+---
+
+## 3) Starter Python files (copy/paste)
+
+### `Python/01-basics/01_hello_world.py`
+```python
+def main():
+    print("Hello, world!")
+    print("Welcome to programming-fundamentals (Python).")
+
+if __name__ == "__main__":
+    main()
+
+
